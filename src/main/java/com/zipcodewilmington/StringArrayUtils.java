@@ -108,7 +108,7 @@ public class StringArrayUtils {
             }
         }
 
-        return valueCount1;
+        return valueCount;
     }
 
     /**
